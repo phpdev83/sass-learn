@@ -1,2 +1,2 @@
 # sass-learn
-Sass learn with Gulp
+Sass learn with Gulp and node
